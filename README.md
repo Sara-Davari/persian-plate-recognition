@@ -13,7 +13,7 @@ How it works:
 3. Train a classification model (KNN)
 4. Evaluate the model's accuracy
 5. Upload a plate for testing the code
-6. Detect where each number ends in order to seperate them
+6. Detect where the blank spaces between number are in order to seperate them
 7. Predict each number
 
 Results:

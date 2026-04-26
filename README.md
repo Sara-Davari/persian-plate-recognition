@@ -25,5 +25,5 @@ What I learned:
 3. How to seperate the itmes of an image based on empty spaces between them
 
 Future developements:
-Alter the program to detect english plates
-increase model accuracy by using larger datasets
+Alter the program to detect english plates. 
+Increase model accuracy by using larger datasets.

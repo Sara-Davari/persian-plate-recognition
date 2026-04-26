@@ -17,7 +17,7 @@ How it works:
 7. Predict each number
 
 Results:
-The model achieved a 75% accuracy and nearly guessed all the numbers in the plate correctly
+The model achieved a 75% accuracy and guessed nearly all the numbers in the test plate correctly
 
 What I learned:
 1. How to use a for loop to read multiple files and make changes in them

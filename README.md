@@ -1,11 +1,11 @@
 # Persian Plate Recognition
-This project combines classification and opencv library to seperate the letters in persian plates and recognize them.
+This project combines classification and opencv library to seperate the letters in persian plates and recognize them. Persian plates pose a unique challenge, as they're longer than most other plates, and can be quit similar in appearance, making them hard to detect for models, especially for those like KNN that rely on simple distance metrics.
 
-Input: Letters 1 - 9 in persian and persian alphabet letters used in plates
+Input: Letters 1 - 9 in persian and persian alphabet letters used in plates , a full persian plate to test the code
 
 Model: KNeighborsClassifier
 
-Output: The plate's predicted letter and numbers
+Output: The test plate's predicted letter and numbers
 
 How it works:
 1. Upload the files containing different types of persian letters and numbers, resize them and turn them into black and white images using a for loop
@@ -25,5 +25,5 @@ What I learned:
 3. How to seperate the itmes of an image based on empty spaces between them
 
 Future developements:
-Alter the program to detect english plates. 
-Increase model accuracy by using larger datasets.
+Replace KNN with a Convolutional Neural Network (CNN)
+Alter the program to detect english plates.

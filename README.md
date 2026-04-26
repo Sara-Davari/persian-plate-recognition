@@ -8,7 +8,7 @@ Model: KNeighborsClassifier
 Output: The plate's predicted letter and numbers
 
 How it works:
-1. Upload the files containing different types of persian letters and numbers, resize them and turn them into black and white images
+1. Upload the files containing different types of persian letters and numbers, resize them and turn them into black and white images using a for loop
 2. Split the data into training and testing sets
 3. Train a classification model (KNN)
 4. Evaluate the model's accuracy

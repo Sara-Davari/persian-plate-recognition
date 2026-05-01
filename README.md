@@ -1,5 +1,5 @@
 # Persian Plate Recognition
-This project combines classification and opencv library to seperate the letters in persian plates and recognize them. Persian plates pose a unique challenge, as they're longer than most other plates, and can be quit similar in appearance, making them hard to detect for models, especially for those like KNN that rely on simple distance metrics.
+This project combines classification and opencv library to seperate the letters in persian plates and recognize them. Persian plates pose a unique challenge, as they're longer than most other plates, and some letters can be quit similar in appearance, making them hard to detect for models, especially for those like KNN that rely on simple distance metrics.
 
 Dataset: Due to size, the full dataset is provided as a zip file. Download and extract the folder before running the code.
 

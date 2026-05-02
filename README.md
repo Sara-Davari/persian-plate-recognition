@@ -13,10 +13,13 @@ How it works:
 1. Upload the files containing different types of persian letters and numbers, resize them and turn them into black and white images using a for loop
 2. Split the data into training and testing sets
 3. Train a classification model (KNN)
-4. Evaluate the model's accuracy
-5. Upload a plate for testing the code
-6. Detect where the blank spaces between numbers are in order to seperate them
-7. Predict each number
+4. Predict the numbers on test data
+5. Evaluate the model's accuracy
+6. Use confusion matrix to determine the model's errors
+7. Upload a plate for testing the code
+8. Detect where the blank spaces between numbers are
+9. Draw lines in the blank spaces to seperate them
+10. Predict each number
 
 Results:
 The model achieved a 75% accuracy and guessed nearly all the numbers in the test plate correctly

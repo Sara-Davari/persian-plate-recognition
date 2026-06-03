@@ -5,7 +5,7 @@ Dataset: Due to size, the full dataset is provided as a zip file. Download and e
 
 Input: Letters 1 - 9 in persian and persian alphabet letters used in plates , a full persian plate to test the code
 
-Model: KNeighborsClassifier
+Model: KNN (K-Nearest Neighbors)
 
 Output: The test plate's predicted letter and numbers
 
